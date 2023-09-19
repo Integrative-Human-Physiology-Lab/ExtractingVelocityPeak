@@ -1,6 +1,6 @@
 # ExtractingVelocityPeak
 
-A collection of MATLAB scripts designed to take Terason, Siemens, or Transcranial Doppler ultrasound data and run a frequency analysis to extract the
+A collection of MATLAB (2021a) scripts designed to take Terason, Siemens, or Transcranial Doppler ultrasound data and run a frequency analysis to extract the
 velocity profile of blood moving through arteries in the body. The MATLAB graphical interface app allows an individual to pick a specific threshold
 best suited for his/her own audio data. 
 
